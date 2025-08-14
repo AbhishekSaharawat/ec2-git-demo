@@ -1,1 +1,2 @@
-This file is from ec2 instance
+This file is from ec2 instance.
+Adding second line as well.
